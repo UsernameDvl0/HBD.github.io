@@ -13,9 +13,9 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assests/1.mp3',
+        path: 'assets/1.mp3',
         displayName: 'Happy Birthday To You',
-        cover: 'assests/1.jpg',
+        cover: 'assets/1.jpg',
         artist: 'Nayeon',
     },
     {
