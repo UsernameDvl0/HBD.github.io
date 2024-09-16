@@ -13,15 +13,15 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/1.mp3',
+        path: '1.mp3',
         displayName: 'Happy Birthday To You',
-        cover: 'assets/1.jpg',
+        cover: '1.jpg',
         artist: 'Nayeon',
     },
     {
-        path: 'assets/2.mp3',
+        path: '2.mp3',
         displayName: 'About You',
-        cover: 'assets/2.jpg',
+        cover: '2.jpg',
         artist: 'The living 1975',
     }
 ];
